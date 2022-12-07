@@ -1,8 +1,10 @@
 # Hello World
+
 This is my home page! My name is Ju Yeong Kim and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science.
 
 ## Computer Science Projects
-My GitHub page is https://github.com/juyeongk365.
+
+My GitHub page is http://github.com/juyeongk365.
 
 ### CPSC 120
 
@@ -10,4 +12,4 @@ My GitHub page is https://github.com/juyeongk365.
 
 * Lab 5, part 3 was one of my favorites because it was very fun programming the BlackJack game. As I was working on my lab assignment, I was able to experience how game developers program their games and I felt like I was slowly becoming like the game developers I admired since I was young. I was very proud of myself for being able to create simple games like BlackJack. It might be a simple program, but thanks to this lab assignment, my love for programming got stronger. Now I have a clear understanding of how games are first developed.
 
-* Lab 2, part 3 was definitely one of my favorites because it was the moment when I first understood how computers work. I still remember how hard and scary computer programs looked for me because I didn’t understand anything. It might look silly looking back right now, but I actually had a hard time doing this assignment. I didn’t know what the C++ Google Style Guide was and I always had errors in this lab assignment. I spend a lot of time compiling and re-editing the code and that was when I slowly realized how computers functioned. 
+* Lab 2, part 3 was one of my favorites because it was the moment when I first understood how computers work. I still remember how hard and scary computer programs looked for me because I didn’t understand anything. It might look silly looking back right now, but I had a hard time doing this assignment. I didn’t know what the C++ Google Style Guide was and I always had errors in this lab assignment. I spent a lot of time compiling and re-editing the code and that was when I slowly realized how computers functioned. 
